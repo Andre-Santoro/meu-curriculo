@@ -2,6 +2,6 @@ Meu Currículo - | Este repositório contém meu currículo online, criado com H
 
 Acesse meu currículo aqui: https://andre-santoro.github.io/curriculo/
 
-Este currículo apresenta minhas habilidades, formação acadêmica e projetos. Ele foi desenvolvido para ser simples, direto e fácil de acessar.
+Este currículo apresenta minhas habilidades e projetos. Ele foi desenvolvido para ser simples, direto e fácil de acessar.
 
 Tecnologias utilizadas - | HTML5 CSS3
